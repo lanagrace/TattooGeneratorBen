@@ -5,7 +5,7 @@ function preload(){
   for(let i=1;i<33;i++){
    
 
-    append(images, "/Images/img"+i+".jpg");
+    append(images, "https://github.com/lanagrace/TattooGeneratorBen/tree/main/Images/img"+i+".jpg");
 /*     console.log(images.length);*/
   }
 }
